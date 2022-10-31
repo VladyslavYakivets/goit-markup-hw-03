@@ -45,7 +45,8 @@ body {
 /* header */
 
 .header{
-  border: 1px solid #ECECEC;
+  border: 1px solid #ECECEC; 
+  border-top: none;
 }
 
 .container-header {
